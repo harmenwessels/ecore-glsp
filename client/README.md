@@ -16,6 +16,10 @@ Install yarn.
 
     npm install -g yarn
 
+Download the depedencies using yarn
+
+    yarn install
+
 ## Running the browser example
 
     yarn rebuild:browser
